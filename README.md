@@ -1,4 +1,5 @@
 {
+    
     "terminal.integrated.fontSize": 14,
   
     "workbench.iconTheme": "material-icon-theme",
